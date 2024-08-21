@@ -11,4 +11,4 @@ More text.
 1. Numbered list
 2. More items
 
-[link to google](www.google.com)
+[link to google](https://www.google.com/)
