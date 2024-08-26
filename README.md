@@ -4,7 +4,7 @@ This is a repository that includes class materials for DATA2401 class at UHD.
 You can type *italic* or **Bold**.
 - in a _list_
 - more items
-   +subitem
+   + subitem
 
 ## A subsubheading
 More text.
